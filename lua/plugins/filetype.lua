@@ -39,6 +39,9 @@ vis.ftdetect.filetypes = {
 	awk = {
 		ext = { "%.awk$" },
 	},
+	bale = {
+		ext = { "%.bale$" },
+	},
 	bash = {
 		ext = { "%.bash$", "%.csh$", "%.sh$", "%.zsh$" },
 		mime = { "text/x-shellscript" },
